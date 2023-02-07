@@ -1,0 +1,12 @@
+connect bitbash.xyz 9050
+login nfc-yxt kyijhnmu
+move north
+move east
+move south
+move west
+move n
+move s
+move e
+move w
+observe
+quit

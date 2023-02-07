@@ -1,0 +1,8 @@
+connect bitbash.xyz 9050
+login nfc-yxt kyijhnmu
+observe
+inspect west
+inspect north
+inspect east
+inspect south
+quit
